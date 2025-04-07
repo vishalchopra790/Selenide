@@ -1,8 +1,4 @@
 
-W
-'src/test/java/org/tests/GoogleTest.java,a\6\a60886beb035ad27868755653147880a6800e0d5
-^
-.src/test/java/org/tests/LaunchBrowserTest.java,1\4\14f9084259617e8551f93bca8a0322a29b2aea24
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 `
@@ -19,6 +15,10 @@ X
 0src/test/java/org/tests/FindElementsConcept.java,e\6\e6e51432935addced70bbfe6ee8d4e1d5cba748b
 X
 (build/reports/tests/1639988229437.0.html,4\6\46132e5a442040c1622eb154614cd46afeeb196a
+W
+'src/test/java/org/tests/GoogleTest.java,a\6\a60886beb035ad27868755653147880a6800e0d5
+^
+.src/test/java/org/tests/LaunchBrowserTest.java,1\4\14f9084259617e8551f93bca8a0322a29b2aea24
 _
 /src/test/java/org/tests/NavigationConcepts.java,5\0\50d75f1032b19c52f5b7e28df3b7eac47b1b4e2c
 w

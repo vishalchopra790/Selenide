@@ -1,0 +1,490 @@
+
+^Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(çÖÏğ
+s%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(«—´¿ùÿÿÿÿ
+YWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(«—´¿ùÿÿÿÿ
+YWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(«—´¿ùÿÿÿÿ
+sjavascript:S2392"WConsider moving declaration of 'b' as it is referenced outside current binding context.(¢ã›°
+Ojavascript:S1121"3Extract the assignment of "b" from this expression.(¢ã›°
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(¢ã›°
+sjavascript:S2392"WConsider moving declaration of 'b' as it is referenced outside current binding context.(¢ã›°
+Ojavascript:S1121"3Extract the assignment of "b" from this expression.(¢ã›°
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(¢ã›°
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(‚³¥ùÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(‚³¥ùÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "c" from this expression.(‚³¥ùÿÿÿÿ
+Jjavascript:S6666".Use the spread operator instead of '.apply()'.(ÊÀÍÈ
+Ojavascript:S1121"3Extract the assignment of "a" from this expression.(˜ĞíÓ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(˜ĞíÓ
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(˜ĞíÓ
+Wjavascript:S1119";Refactor the code to remove this label and the need for it.(˜ĞíÓ
+2javascript:S1439"Remove this "a" label.(˜ĞíÓ
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(˜ĞíÓ
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(˜ĞíÓ
+Tjavascript:S1121"3Extract the assignment of "f" from this expression.(•¡Éüùÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(•¡Éüùÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(•¡Éüùÿÿÿÿ
+\javascript:S1119";Refactor the code to remove this label and the need for it.(Â®³üÿÿÿÿ
+7javascript:S1439"Remove this "a" label.(Â®³üÿÿÿÿ
+—javascript:S2681	"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(°õ¢’
+—javascript:S2681	"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(°õ¢’
+Wjavascript:S1119	";Refactor the code to remove this label and the need for it.(°õ¢’
+2javascript:S1439	"Remove this "a" label.(°õ¢’
+javascript:S2681	"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(°õ¢’
+—javascript:S2681	"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(°õ¢’
+`javascript:S3358
+"DExtract this nested ternary operation into an independent statement.(ñŠ´
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ó¾Ùöøÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "e" from this expression.(ó¾Ùöøÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ó¾Ùöøÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(ó¾Ùöøÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "a" from this expression.(ó¾Ùöøÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(ó¾Ùöøÿÿÿÿ
+ejavascript:S3699"DRemove this use of the output from "O"; "O" doesn't return anything.(ó¾Ùöøÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(ó¾Ùöøÿÿÿÿ
+ejavascript:S3699"DRemove this use of the output from "O"; "O" doesn't return anything.(ó¾Ùöøÿÿÿÿ
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+Ojavascript:S1121"3Extract the assignment of "k" from this expression.(Àß¬ª
+<javascript:S878"!Unexpected use of comma operator.(Àß¬ª
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Àß¬ª
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Àß¬ª
+sjavascript:S2392"WConsider moving declaration of 'g' as it is referenced outside current binding context.(Àß¬ª
+Ojavascript:S1121"3Extract the assignment of "b" from this expression.(Àß¬ª
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Àß¬ª
+Ojavascript:S1121"3Extract the assignment of "b" from this expression.(Àß¬ª
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(Àß¬ª
+<javascript:S878"!Unexpected use of comma operator.(Àß¬ª
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+<javascript:S878"!Unexpected use of comma operator.(Àß¬ª
+Ojavascript:S1121"3Extract the assignment of "L" from this expression.(Àß¬ª
+`javascript:S3358"DExtract this nested ternary operation into an independent statement.(Àß¬ª
+Ojavascript:S1121"3Extract the assignment of "p" from this expression.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+`javascript:S3358"DExtract this nested ternary operation into an independent statement.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+`javascript:S3699"DRemove this use of the output from "O"; "O" doesn't return anything.(Àß¬ª
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Àß¬ª
+<javascript:S878"!Unexpected use of comma operator.(ç‹³
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(ç‹³
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(š“«ñ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(š“«ñ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(š“«ñ
+Hjavascript:S1264",Replace this "for" loop with a "while" loop.(š“«ñ
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(š“«ñ
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(š“«ñ
+Tjavascript:S1121"8Extract the assignment of "this.g" from this expression.(’ŠÊ
+Tjavascript:S1121"8Extract the assignment of "this.g" from this expression.(’ŠÊ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(’ŠÊ
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(’ŠÊ
+qjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 160 to the 15 allowed.(û®‹Œ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(û®‹Œ
+Ojavascript:S1121"3Extract the assignment of "m" from this expression.(û®‹Œ
+sjavascript:S2392"WConsider moving declaration of 'O' as it is referenced outside current binding context.(û®‹Œ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(û®‹Œ
+Ojavascript:S1121"3Extract the assignment of "r" from this expression.(û®‹Œ
+sjavascript:S2392"WConsider moving declaration of 'h' as it is referenced outside current binding context.(û®‹Œ
+sjavascript:S2392"WConsider moving declaration of 'p' as it is referenced outside current binding context.(û®‹Œ
+Ojavascript:S1121"3Extract the assignment of "y" from this expression.(û®‹Œ
+<javascript:S878"!Unexpected use of comma operator.(û®‹Œ
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(û®‹Œ
+`javascript:S3358"DExtract this nested ternary operation into an independent statement.(û®‹Œ
+Ojavascript:S1121"3Extract the assignment of "q" from this expression.(û®‹Œ
+]javascript:S6644"AUnnecessary use of conditional expression for default assignment.(û®‹Œ
+<javascript:S878"!Unexpected use of comma operator.(û®‹Œ
+<javascript:S878"!Unexpected use of comma operator.(û®‹Œ
+sjavascript:S2392"WConsider moving declaration of 't' as it is referenced outside current binding context.(û®‹Œ
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(û®‹Œ
+<javascript:S878"!Unexpected use of comma operator.(û®‹Œ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(û®‹Œ
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(û®‹Œ
+[javascript:S1121"?Extract the assignment of "c.returnValue" from this expression.(Èç•ı
+<javascript:S878"!Unexpected use of comma operator.(Èç•ı
+Ojavascript:S1121"3Extract the assignment of "c" from this expression.(Èç•ı
+Ojavascript:S1121"3Extract the assignment of "g" from this expression.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'E' as it is referenced outside current binding context.(Èç•ı
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Èç•ı
+Ojavascript:S1121"3Extract the assignment of "c" from this expression.(Èç•ı
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Èç•ı
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Èç•ı
+Ojavascript:S1121"3Extract the assignment of "c" from this expression.(Èç•ı
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Èç•ı
+2javascript:S6676"Unnecessary '.call()'.(Èç•ı
+Wjavascript:S1119";Refactor the code to remove this label and the need for it.(Èç•ı
+2javascript:S1439"Remove this "a" label.(Èç•ı
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Èç•ı
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Èç•ı
+<javascript:S878"!Unexpected use of comma operator.(Èç•ı
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'b' as it is referenced outside current binding context.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'd' as it is referenced outside current binding context.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'c' as it is referenced outside current binding context.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'g' as it is referenced outside current binding context.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'l' as it is referenced outside current binding context.(Èç•ı
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Èç•ı
+`javascript:S3699"DRemove this use of the output from "G"; "G" doesn't return anything.(Èç•ı
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Èç•ı
+<javascript:S878"!Unexpected use of comma operator.(Èç•ı
+`javascript:S3699"DRemove this use of the output from "U"; "U" doesn't return anything.(Èç•ı
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Èç•ı
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Èç•ı
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Èç•ı
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Èç•ı
+Hjavascript:S1264",Replace this "for" loop with a "while" loop.(Èç•ı
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Èç•ı
+sjavascript:S2392"WConsider moving declaration of 'd' as it is referenced outside current binding context.(Èç•ı
+javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Èç•ı
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Èç•ı
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(Èç•ı
+Kjavascript:S1186"*Unexpected empty function '_F_installCss'.(šˆŒ·úÿÿÿÿ
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÃÂ§úÿÿÿÿ
+Ujavascript:S1481"4Remove the declaration of the unused 'sdo' variable.(ÃÂ§úÿÿÿÿ
+Ujavascript:S1481"4Remove the declaration of the unused 'mei' variable.(ÃÂ§úÿÿÿÿ
+Rjavascript:S1854"1Remove this useless assignment to variable "mei".(ÃÂ§úÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(¸í¸…şÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¸í¸…şÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¸í¸…şÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¸í¸…şÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¸í¸…şÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(Å“ÅÛûÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(Å“ÅÛûÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Å“ÅÛûÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(Å“ÅÛûÿÿÿÿ
+:javascript:S2990"Remove the use of "this".(Å“ÅÛûÿÿÿÿ
+:javascript:S2990"Remove the use of "this".(Å“ÅÛûÿÿÿÿ
+:javascript:S2990"Remove the use of "this".(Å“ÅÛûÿÿÿÿ
+wjavascript:S3776"VRefactor this function to reduce its Cognitive Complexity from 2970 to the 15 allowed.(Å“ÅÛûÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'c' as it is referenced outside current binding context.(Ö¿Àœıÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Ö¿Àœıÿÿÿÿ
+Xjavascript:S1121"7Extract the assignment of "a[sa]" from this expression.(Ö¿Àœıÿÿÿÿ
+ejavascript:S3358"DExtract this nested ternary operation into an independent statement.(Ö¿Àœıÿÿÿÿ
+Wjavascript:S1121"6Extract the assignment of "a.ze" from this expression.(Ö¿Àœıÿÿÿÿ
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ƒÒè¢
+—javascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ƒÒè¢
+xjavascript:S2392"WConsider moving declaration of 'c' as it is referenced outside current binding context.(Ê½¨ÿÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Ê½¨ÿÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "b" from this expression.(Ê½¨ÿÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'e' as it is referenced outside current binding context.(Ê½¨ÿÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "e" from this expression.(Ê½¨ÿÿÿÿÿ
+Tjavascript:S1121"3Extract the assignment of "e" from this expression.(Ê½¨ÿÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Ê½¨ÿÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ê½¨ÿÿÿÿÿ
+’javascript:S2681 "qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ÀÕ©¬şÿÿÿÿ
+mjavascript:S4138 "LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÀÕ©¬şÿÿÿÿ
+fjavascript:S905 "FExpected an assignment or function call and instead saw an expression.(ÀÕ©¬şÿÿÿÿ
+Ajavascript:S878 "!Unexpected use of comma operator.(ÀÕ©¬şÿÿÿÿ
+kjavascript:S6653 "JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(ÀÕ©¬şÿÿÿÿ
+œjavascript:S2681 "{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÀÕ©¬şÿÿÿÿ
+hjavascript:S4138!"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÌØ¤®
+Wjavascript:S1119!";Refactor the code to remove this label and the need for it.(ÌØ¤®
+2javascript:S1439!"Remove this "a" label.(ÌØ¤®
+sjavascript:S2392!"WConsider moving declaration of 'd' as it is referenced outside current binding context.(ÌØ¤®
+—javascript:S2681!"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÌØ¤®
+–javascript:S2681""{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ØÕG
+–javascript:S2681""{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ØÕG
+œjavascript:S2681#"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(§·’·ûÿÿÿÿ
+;javascript:S1186$"Unexpected empty function.(øŞÃüÿÿÿÿ
+\javascript:S1119$";Refactor the code to remove this label and the need for it.(øŞÃüÿÿÿÿ
+7javascript:S1439$"Remove this "a" label.(øŞÃüÿÿÿÿ
+Hjavascript:S6654$"'The '__proto__' property is deprecated.(øŞÃüÿÿÿÿ
+Hjavascript:S6654$"'The '__proto__' property is deprecated.(øŞÃüÿÿÿÿ
+Hjavascript:S6654$"'The '__proto__' property is deprecated.(øŞÃüÿÿÿÿ
+œjavascript:S2681$"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(øŞÃüÿÿÿÿ
+œjavascript:S2681%"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(“‹¿Úûÿÿÿÿ
+œjavascript:S2681%"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(“‹¿Úûÿÿÿÿ
+œjavascript:S2681%"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(“‹¿Úûÿÿÿÿ
+]javascript:S6644&"AUnnecessary use of conditional expression for default assignment.(¨³õç
+sjavascript:S2392&"WConsider moving declaration of 'g' as it is referenced outside current binding context.(¨³õç
+javascript:S2681&"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(¨³õç
+]javascript:S6644&"AUnnecessary use of conditional expression for default assignment.(¨³õç
+Wjavascript:S1119&";Refactor the code to remove this label and the need for it.(¨³õç
+2javascript:S1439&"Remove this "a" label.(¨³õç
+fjavascript:S6653&"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(¨³õç
+?javascript:S1186'"Unexpected empty function 'b'.(‹úôøÿÿÿÿ
+]javascript:S2430'"<A constructor name should not start with a lowercase letter.(‹úôøÿÿÿÿ
+œjavascript:S2681'"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(‹úôøÿÿÿÿ
+œjavascript:S2681'"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(‹úôøÿÿÿÿ
+œjavascript:S2681'"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(‹úôøÿÿÿÿ
+Tjavascript:S1121("3Extract the assignment of "g" from this expression.(õ±£Ÿüÿÿÿÿ
+Tjavascript:S1121("3Extract the assignment of "m" from this expression.(õ±£Ÿüÿÿÿÿ
+fjavascript:S905("FExpected an assignment or function call and instead saw an expression.(õ±£Ÿüÿÿÿÿ
+Ajavascript:S878("!Unexpected use of comma operator.(õ±£Ÿüÿÿÿÿ
+œjavascript:S2681("{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(õ±£Ÿüÿÿÿÿ
+œjavascript:S2681("{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(õ±£Ÿüÿÿÿÿ
+œjavascript:S2681*"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ä€ëúÿÿÿÿ
+œjavascript:S2681*"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ä€ëúÿÿÿÿ
+œjavascript:S2681*"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ä€ëúÿÿÿÿ
+œjavascript:S2681*"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ä€ëúÿÿÿÿ
+Ojavascript:S1121+"3Extract the assignment of "l" from this expression.(¬£Ë÷
+ajavascript:S905+"FExpected an assignment or function call and instead saw an expression.(¬£Ë÷
+<javascript:S878+"!Unexpected use of comma operator.(¬£Ë÷
+ajavascript:S905+"FExpected an assignment or function call and instead saw an expression.(¬£Ë÷
+Xjavascript:S1121+"<Extract the assignment of "m.Xa.value" from this expression.(¬£Ë÷
+Tjavascript:S1121,"3Extract the assignment of "k" from this expression.(ğÅİŞüÿÿÿÿ
+Njavascript:S1121-"3Extract the assignment of "r" from this expression.(íŞË4
+`javascript:S905-"FExpected an assignment or function call and instead saw an expression.(íŞË4
+;javascript:S878-"!Unexpected use of comma operator.(íŞË4
+`javascript:S905-"FExpected an assignment or function call and instead saw an expression.(íŞË4
+_javascript:S3358-"DExtract this nested ternary operation into an independent statement.(íŞË4
+Njavascript:S1121-"3Extract the assignment of "m" from this expression.(íŞË4
+Njavascript:S1121-"3Extract the assignment of "m" from this expression.(íŞË4
+Hjavascript:S6679-"-Use 'Number.isNaN()' to check for 'NaN' value(íŞË4
+Hjavascript:S6679-"-Use 'Number.isNaN()' to check for 'NaN' value(íŞË4
+gjavascript:S1764-"LCorrect one of the identical sub-expressions on both sides of operator "!=="(íŞË4
+–javascript:S2681-"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(íŞË4
+Gjavascript:S1264-",Replace this "for" loop with a "while" loop.(íŞË4
+Œjavascript:S2681-"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(íŞË4
+Gjavascript:S1264-",Replace this "for" loop with a "while" loop.(íŞË4
+Ljavascript:S1751-"1Refactor this loop to do more than one iteration.(íŞË4
+;javascript:S878."!Unexpected use of comma operator.(¼©›D
+Œjavascript:S2681."qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(¼©›D
+Qjavascript:S1121."6Extract the assignment of "k.lc" from this expression.(¼©›D
+\javascript:S6644."AUnnecessary use of conditional expression for default assignment.(¼©›D
+]javascript:S6644/"AUnnecessary use of conditional expression for default assignment.(ÿ‚Ôä
+—javascript:S26810"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÂØ‡•
+—javascript:S26810"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÂØ‡•
+—javascript:S26810"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÂØ‡•
+—javascript:S26810"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÂØ‡•
+Ojavascript:S11211"3Extract the assignment of "d" from this expression.(ëİÂÿ
+bjavascript:S66442"AUnnecessary use of conditional expression for default assignment.(†ùˆıÿÿÿÿ
+bjavascript:S66443"AUnnecessary use of conditional expression for default assignment.(ø³¦®øÿÿÿÿ
+xjavascript:S23923"WConsider moving declaration of 'g' as it is referenced outside current binding context.(ø³¦®øÿÿÿÿ
+Tjavascript:S11213"3Extract the assignment of "f" from this expression.(ø³¦®øÿÿÿÿ
+œjavascript:S26813"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ø³¦®øÿÿÿÿ
+bjavascript:S66443"AUnnecessary use of conditional expression for default assignment.(ø³¦®øÿÿÿÿ
+’javascript:S26813"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ø³¦®øÿÿÿÿ
+\javascript:S66444"AUnnecessary use of conditional expression for default assignment.(ÙÖ‹i
+Hjavascript:S66794"-Use 'Number.isNaN()' to check for 'NaN' value(ÙÖ‹i
+Hjavascript:S66794"-Use 'Number.isNaN()' to check for 'NaN' value(ÙÖ‹i
+\javascript:S66444"AUnnecessary use of conditional expression for default assignment.(ÙÖ‹i
+\javascript:S66444"AUnnecessary use of conditional expression for default assignment.(ÙÖ‹i
+bjavascript:S66445"AUnnecessary use of conditional expression for default assignment.(ÊûºÈÿÿÿÿÿ
+œjavascript:S26815"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÊûºÈÿÿÿÿÿ
+’javascript:S26815"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ÊûºÈÿÿÿÿÿ
+bjavascript:S66445"AUnnecessary use of conditional expression for default assignment.(ÊûºÈÿÿÿÿÿ
+kjavascript:S6653<"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(•¬óİúÿÿÿÿ
+—javascript:S2681="{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¤Í—Ø
+Qjavascript:S1121="5Extract the assignment of "_.w" from this expression.(¤Í—Ø
+Qjavascript:S1121="5Extract the assignment of "_.w" from this expression.(¤Í—Ø
+_javascript:S3358>"DExtract this nested ternary operation into an independent statement.(Ëºô
+Njavascript:S1121>"3Extract the assignment of "c" from this expression.(Ëºô
+Njavascript:S1121>"3Extract the assignment of "c" from this expression.(Ëºô
+Qjavascript:S1121>"6Extract the assignment of "c[d]" from this expression.(Ëºô
+9javascript:S1186>"Unexpected empty function 'c'.(Ëºô
+Wjavascript:S2430>"<A constructor name should not start with a lowercase letter.(Ëºô
+rjavascript:S2392>"WConsider moving declaration of 'g' as it is referenced outside current binding context.(Ëºô
+Œjavascript:S2681>"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Ëºô
+—javascript:S2681?"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(“Õ™ı
+œjavascript:S2681C"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ê–øŞıÿÿÿÿ
+’javascript:S2681C"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ê–øŞıÿÿÿÿ
+xjavascript:S2392D"WConsider moving declaration of 'e' as it is referenced outside current binding context.(õĞöäüÿÿÿÿ
+’javascript:S2681D"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(õĞöäüÿÿÿÿ
+xjavascript:S2392D"WConsider moving declaration of 'e' as it is referenced outside current binding context.(õĞöäüÿÿÿÿ
+’javascript:S2681D"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(õĞöäüÿÿÿÿ
+2javascript:S6676E"Unnecessary '.call()'.(ÿšè†
+2javascript:S6676E"Unnecessary '.call()'.(ÿšè†
+javascript:S2681E"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ÿšè†
+Wjavascript:S1119H";Refactor the code to remove this label and the need for it.(Âëó½
+2javascript:S1439H"Remove this "a" label.(Âëó½
+=javascript:S6535H"!Unnecessary escape character: \).(Âëó½
+Ljavascript:S6035H"0Replace this alternation with a character class.(Âëó½
+—javascript:S2681H"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Âëó½
+=javascript:S6535H"!Unnecessary escape character: \..(Âëó½
+—javascript:S2681H"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Âëó½
+=javascript:S6535H"!Unnecessary escape character: \).(Âëó½
+Ljavascript:S6035H"0Replace this alternation with a character class.(Âëó½
+—javascript:S2681H"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Âëó½
+—javascript:S2681H"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Âëó½
+=javascript:S6535H"!Unnecessary escape character: \/.(Âëó½
+]javascript:S6644H"AUnnecessary use of conditional expression for default assignment.(Âëó½
+—javascript:S2681H"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Âëó½
+sjavascript:S2392J"WConsider moving declaration of 'c' as it is referenced outside current binding context.(Ü‚â
+sjavascript:S2392J"WConsider moving declaration of 'd' as it is referenced outside current binding context.(Ü‚â
+sjavascript:S2392J"WConsider moving declaration of 'e' as it is referenced outside current binding context.(Ü‚â
+sjavascript:S2392J"WConsider moving declaration of 'f' as it is referenced outside current binding context.(Ü‚â
+sjavascript:S2392J"WConsider moving declaration of 'l' as it is referenced outside current binding context.(Ü‚â
+sjavascript:S2392J"WConsider moving declaration of 'm' as it is referenced outside current binding context.(Ü‚â
+qjavascript:S128J"VEnd this switch case with an unconditional break, continue, return or throw statement.(Ü‚â
+<javascript:S878J"!Unexpected use of comma operator.(Ü‚â
+<javascript:S878J"!Unexpected use of comma operator.(Ü‚â
+javascript:S2681O"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(‰£–ÿ
+mjavascript:S4138P"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(®Òƒÿÿÿÿÿ
+mjavascript:S4138P"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(®Òƒÿÿÿÿÿ
+’javascript:S2681P"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(®Òƒÿÿÿÿÿ
+mjavascript:S4138P"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(®Òƒÿÿÿÿÿ
+’javascript:S2681P"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(®Òƒÿÿÿÿÿ
+hjavascript:S4138Q"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(•öÄî
+ajavascript:S905Q"FExpected an assignment or function call and instead saw an expression.(•öÄî
+Rjavascript:S1121Q"6Extract the assignment of "d[1]" from this expression.(•öÄî
+ajavascript:S905Q"FExpected an assignment or function call and instead saw an expression.(•öÄî
+Ojavascript:S1121Q"3Extract the assignment of "a" from this expression.(•öÄî
+ejavascript:S6653R"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(»Âäb
+Œjavascript:S2681R"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(»Âäb
+Wjavascript:S1119S";Refactor the code to remove this label and the need for it.(êÀ‡æ
+2javascript:S1439S"Remove this "a" label.(êÀ‡æ
+ajavascript:S905S"FExpected an assignment or function call and instead saw an expression.(êÀ‡æ
+Tjavascript:S1121S"8Extract the assignment of "this.C" from this expression.(êÀ‡æ
+ajavascript:S905S"FExpected an assignment or function call and instead saw an expression.(êÀ‡æ
+<javascript:S878S"!Unexpected use of comma operator.(êÀ‡æ
+`javascript:S3358S"DExtract this nested ternary operation into an independent statement.(êÀ‡æ
+Ojavascript:S1121S"3Extract the assignment of "d" from this expression.(êÀ‡æ
+Wjavascript:S1121S";Extract the assignment of "this.A[a]" from this expression.(êÀ‡æ
+`javascript:S3358S"DExtract this nested ternary operation into an independent statement.(êÀ‡æ
+Ojavascript:S1121S"3Extract the assignment of "d" from this expression.(êÀ‡æ
+Wjavascript:S1121S";Extract the assignment of "this.o[a]" from this expression.(êÀ‡æ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+fjavascript:S905T"FExpected an assignment or function call and instead saw an expression.(Ã¤Áÿşÿÿÿÿ
+ejavascript:S3358T"DExtract this nested ternary operation into an independent statement.(Ã¤Áÿşÿÿÿÿ
+]javascript:S1121T"<Extract the assignment of "a.A[b+a.B]" from this expression.(Ã¤Áÿşÿÿÿÿ
+œjavascript:S2681U"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ë¸¤üÿÿÿÿ
+œjavascript:S2681U"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ë¸¤üÿÿÿÿ
+œjavascript:S2681U"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ë¸¤üÿÿÿÿ
+Yjavascript:S1121U"8Extract the assignment of "a.j[c]" from this expression.(Ë¸¤üÿÿÿÿ
+<javascript:S1656\" 'this.Ub' is assigned to itself.(òŒ’
+<javascript:S1656\" 'this.Ma' is assigned to itself.(òŒ’
+ajavascript:S905\"FExpected an assignment or function call and instead saw an expression.(òŒ’
+Hjavascript:S1264\",Replace this "for" loop with a "while" loop.(òŒ’
+Œjavascript:S2681]"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(É¤ŞX
+rjavascript:S2392]"WConsider moving declaration of 'a' as it is referenced outside current binding context.(É¤ŞX
+rjavascript:S2392]"WConsider moving declaration of 'b' as it is referenced outside current binding context.(É¤ŞX
+rjavascript:S2392]"WConsider moving declaration of 'c' as it is referenced outside current binding context.(É¤ŞX
+=javascript:S6535^"!Unnecessary escape character: \).(ÅÏ¤î
+Ljavascript:S6035^"0Replace this alternation with a character class.(ÅÏ¤î
+[javascript:S1121^"?Extract the assignment of "b.returnValue" from this expression.(ÅÏ¤î
+javascript:S2681a"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ÂÙÆ›
+`javascript:S3358b"DExtract this nested ternary operation into an independent statement.(“Ôù­
+ajavascript:S6325h"EUse a regular expression literal instead of the 'RegExp' constructor.(¿‡‘¶
+pjavascript:S5843h"TSimplify this regular expression to reduce its complexity from 47 to the 20 allowed.(¿‡‘¶
+=javascript:S6535h"!Unnecessary escape character: \/.(¿‡‘¶
+œjavascript:S2681i"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¥ş–æüÿÿÿÿ
+œjavascript:S2681i"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¥ş–æüÿÿÿÿ
+ajavascript:S6325j"EUse a regular expression literal instead of the 'RegExp' constructor.(¶ÊîŞ
+ajavascript:S6325j"EUse a regular expression literal instead of the 'RegExp' constructor.(¶ÊîŞ
+fjavascript:S6325k"EUse a regular expression literal instead of the 'RegExp' constructor.(¯÷óøùÿÿÿÿ
+ujavascript:S5843k"TSimplify this regular expression to reduce its complexity from 24 to the 20 allowed.(¯÷óøùÿÿÿÿ
+fjavascript:S905m"FExpected an assignment or function call and instead saw an expression.(‰ù…ıÿÿÿÿ
+Kjavascript:S5869m"*Remove duplicates in this character class.(‰ù…ıÿÿÿÿ
+Vjavascript:S6397m"5Replace this character class by the character itself.(‰ù…ıÿÿÿÿ
+ejavascript:S3358n"DExtract this nested ternary operation into an independent statement.(ŸÕ‰õûÿÿÿÿ
+Tjavascript:S1121n"3Extract the assignment of "a" from this expression.(ŸÕ‰õûÿÿÿÿ
+fjavascript:S6325o"EUse a regular expression literal instead of the 'RegExp' constructor.(ğç£ûÿÿÿÿ
+ujavascript:S5843o"TSimplify this regular expression to reduce its complexity from 54 to the 20 allowed.(ğç£ûÿÿÿÿ
+fjavascript:S6325o"EUse a regular expression literal instead of the 'RegExp' constructor.(ğç£ûÿÿÿÿ
+ujavascript:S5843o"TSimplify this regular expression to reduce its complexity from 30 to the 20 allowed.(ğç£ûÿÿÿÿ
+œjavascript:S2681r"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ú´ä²ùÿÿÿÿ
+Wjavascript:S1121r"6Extract the assignment of "a.Nc" from this expression.(Ú´ä²ùÿÿÿÿ
+Tjavascript:S1121s"3Extract the assignment of "b" from this expression.(¹‰ä˜ùÿÿÿÿ
+œjavascript:S2681s"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¹‰ä˜ùÿÿÿÿ
+œjavascript:S2681s"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¹‰ä˜ùÿÿÿÿ
+rjavascript:S2392t"WConsider moving declaration of 'e' as it is referenced outside current binding context.(›¹€
+ajavascript:S905u"FExpected an assignment or function call and instead saw an expression.(ß®ı
+ajavascript:S905u"FExpected an assignment or function call and instead saw an expression.(ß®ı
+ajavascript:S905u"FExpected an assignment or function call and instead saw an expression.(ß®ı
+<javascript:S878u"!Unexpected use of comma operator.(ß®ı
+javascript:S2681u"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ß®ı
+mjavascript:S4138v"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(»€Ö±ıÿÿÿÿ
+—javascript:S2681y"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(½æšÊ
+—javascript:S2681y"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(½æšÊ
+Pjavascript:S1121}"4Extract the assignment of "Kd" from this expression.(çŒ…
+Pjavascript:S1121}"4Extract the assignment of "Kd" from this expression.(çŒ…
+;javascript:S2990‹"Remove the use of "this".(°‡¡²úÿÿÿÿ
+;javascript:S2990"Remove the use of "this".(«—´¿ùÿÿÿÿ
+;javascript:S2990"Remove the use of "this".(«—´¿ùÿÿÿÿ
+vjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(«—´¿ùÿÿÿÿ
+Yjavascript:S1481"7Remove the declaration of the unused 'window' variable.(«—´¿ùÿÿÿÿ
+Vjavascript:S1854"4Remove this useless assignment to variable "window".(«—´¿ùÿÿÿÿ
+tjavascript:S2392"WConsider moving declaration of 'd' as it is referenced outside current binding context.(Üí§ˆ
+ajavascript:S3358"DExtract this nested ternary operation into an independent statement.(Üí§ˆ
+javascript:S2681˜"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÛØÚ”ÿÿÿÿÿ
+Ijavascript:S4275˜"'Refactor this getter to return a value.(ÛØÚ”ÿÿÿÿÿ
+gjavascript:S905˜"FExpected an assignment or function call and instead saw an expression.(ÛØÚ”ÿÿÿÿÿ
+Bjavascript:S878˜"!Unexpected use of comma operator.(ÛØÚ”ÿÿÿÿÿ
+javascript:S2681¡"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(•¸á­øÿÿÿÿ
+“javascript:S2681¡"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(•¸á­øÿÿÿÿ
+njavascript:S4138¡"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(•¸á­øÿÿÿÿ
+Rjavascript:S6757¢"5Stateless functional components should not use `this`(¡–›Å
+Rjavascript:S6757¢"5Stateless functional components should not use `this`(¡–›Å
+;javascript:S2990©"Remove the use of "this".(°‡¡²úÿÿÿÿ
+6javascript:S2990«"Remove the use of "this".(ã×Ş¼
+6javascript:S2990«"Remove the use of "this".(ã×Ş¼
+rjavascript:S3776«"URefactor this function to reduce its Cognitive Complexity from 195 to the 15 allowed.(ã×Ş¼
+fjavascript:S3358²"DExtract this nested ternary operation into an independent statement.(öÌ‚ııÿÿÿÿ
+fjavascript:S3358²"DExtract this nested ternary operation into an independent statement.(öÌ‚ııÿÿÿÿ
+Pjavascript:S6666²".Use the spread operator instead of '.apply()'.(öÌ‚ııÿÿÿÿ
+ajavascript:S3358´"DExtract this nested ternary operation into an independent statement.(¯²öÄ
+javascript:S2681µ"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ªñ°€ÿÿÿÿÿ
+yjavascript:S2392µ"WConsider moving declaration of 'e' as it is referenced outside current binding context.(ªñ°€ÿÿÿÿÿ
+yjavascript:S2392µ"WConsider moving declaration of 'f' as it is referenced outside current binding context.(ªñ°€ÿÿÿÿÿ
+yjavascript:S2392µ"WConsider moving declaration of 'g' as it is referenced outside current binding context.(ªñ°€ÿÿÿÿÿ
+Ujavascript:S1121µ"3Extract the assignment of "g" from this expression.(ªñ°€ÿÿÿÿÿ
+“javascript:S2681µ"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ªñ°€ÿÿÿÿÿ
+Ujavascript:S1121µ"3Extract the assignment of "g" from this expression.(ªñ°€ÿÿÿÿÿ
+gjavascript:S905µ"FExpected an assignment or function call and instead saw an expression.(ªñ°€ÿÿÿÿÿ
+Bjavascript:S878µ"!Unexpected use of comma operator.(ªñ°€ÿÿÿÿÿ
+“javascript:S2681µ"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ªñ°€ÿÿÿÿÿ
+^javascript:S1121¶"AExtract the assignment of "a.style.cssText" from this expression.(¿ÿŞÀ
+ajavascript:S3358¶"DExtract this nested ternary operation into an independent statement.(¿ÿŞÀ
+Zjavascript:S1121¶"=Extract the assignment of "a.className" from this expression.(¿ÿŞÀ
+ajavascript:S3358¶"DExtract this nested ternary operation into an independent statement.(¿ÿŞÀ
+Xjavascript:S1121¶";Extract the assignment of "a.htmlFor" from this expression.(¿ÿŞÀ
+ajavascript:S3358¶"DExtract this nested ternary operation into an independent statement.(¿ÿŞÀ
+ajavascript:S3358¶"DExtract this nested ternary operation into an independent statement.(¿ÿŞÀ
+Sjavascript:S1121¶"6Extract the assignment of "a[d]" from this expression.(¿ÿŞÀ
+Yjavascript:S1121·"=Extract the assignment of "d.className" from this expression.(ØãñM
+`javascript:S3358·"DExtract this nested ternary operation into an independent statement.(ØãñM
+Yjavascript:S1121·"=Extract the assignment of "d.className" from this expression.(ØãñM
+Xjavascript:S1119¸";Refactor the code to remove this label and the need for it.(ÕİÖÄ
+3javascript:S1439¸"Remove this "a" label.(ÕİÖÄ
+tjavascript:S2392¸"WConsider moving declaration of 'g' as it is referenced outside current binding context.(ÕİÖÄ
+Ujavascript:S1121¹"3Extract the assignment of "b" from this expression.(Æ¡Õøÿÿÿÿ
+Cjavascript:S2189¹"!'c' is not modified in this loop.(Æ¡Õøÿÿÿÿ
+javascript:S2681¹"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Æ¡Õøÿÿÿÿ
+gjavascript:S905Á"FExpected an assignment or function call and instead saw an expression.(¹Œõøÿÿÿÿ
+Ujavascript:S1121Á"3Extract the assignment of "b" from this expression.(¹Œõøÿÿÿÿ
+Zjavascript:S1121Á"8Extract the assignment of "a.href" from this expression.(¹Œõøÿÿÿÿ
+fjavascript:S3358Á"DExtract this nested ternary operation into an independent statement.(¹Œõøÿÿÿÿ
+fjavascript:S3358Á"DExtract this nested ternary operation into an independent statement.(¹Œõøÿÿÿÿ
+javascript:S2681Å"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ç‰âÕøÿÿÿÿ
+Ujavascript:S1121Å"3Extract the assignment of "b" from this expression.(Ç‰âÕøÿÿÿÿ
+Vjavascript:S1121Ï"4Extract the assignment of "Gj" from this expression.(â™µñùÿÿÿÿ
+Vjavascript:S1121Ï"4Extract the assignment of "Hj" from this expression.(â™µñùÿÿÿÿ
+;javascript:S2990Ó"Remove the use of "this".(°‡¡²úÿÿÿÿ
+tjavascript:S2392Ö"WConsider moving declaration of 'a' as it is referenced outside current binding context.(ß­”Ş
+Pjavascript:S1121Ö"3Extract the assignment of "b" from this expression.(ß­”Ş
+javascript:S2681Ö"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(ß­”Ş
+bjavascript:S905Ø"FExpected an assignment or function call and instead saw an expression.(…Ê»
+=javascript:S878Ø"!Unexpected use of comma operator.(…Ê»
+bjavascript:S905Ø"FExpected an assignment or function call and instead saw an expression.(…Ê»
+qjavascript:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤ƒù
+\javascript:S6660Ù"?'If' statement should not be the only statement in 'else' block(¤ƒù
+1	css:S4658"Unexpected empty block(«—´¿ùÿÿÿÿ
+>	css:S4656"#Unexpected duplicate "-webkit-flex"(«—´¿ùÿÿÿÿ
+7	css:S4656"Unexpected duplicate "width"(«—´¿ùÿÿÿÿ
+K	css:S4657"0Unexpected shorthand "margin" after "margin-top"(«—´¿ùÿÿÿÿ
+A	css:S4649"&Unexpected missing generic font family(«—´¿ùÿÿÿÿ
+;	css:S4651" Unexpected nonstandard direction(«—´¿ùÿÿÿÿ
+;	css:S4651" Unexpected nonstandard direction(«—´¿ùÿÿÿÿ
+Y	css:S4661">Unexpected unknown media feature name "min-device-pixel-ratio"(«—´¿ùÿÿÿÿ
+\	css:S4666"AUnexpected duplicate selector "body,html", first used at line 141(«—´¿ùÿÿÿÿ
+X	css:S4666"=Unexpected duplicate selector ".gb_3", first used at line 141(«—´¿ùÿÿÿÿ
+b	css:S4666"GUnexpected duplicate selector "#gb a.gb_3.gb_3", first used at line 141(«—´¿ùÿÿÿÿ
+X	css:S4666"=Unexpected duplicate selector ".gb_C", first used at line 141(«—´¿ùÿÿÿÿ
+Y	css:S4666">Unexpected duplicate selector ".gb_bd", first used at line 141(«—´¿ùÿÿÿÿ
+X	css:S4666"=Unexpected duplicate selector ".gb_E", first used at line 141(«—´¿ùÿÿÿÿ
+Y	css:S4666">Unexpected duplicate selector ".gb_Uc", first used at line 141(«—´¿ùÿÿÿÿ
+2	css:S4667"Unexpected empty source(«—´¿ùÿÿÿÿ
+2	css:S4667"Unexpected empty source(«—´¿ùÿÿÿÿ
+2	css:S4667"Unexpected empty source(«—´¿ùÿÿÿÿ
+2	css:S4667"Unexpected empty source(«—´¿ùÿÿÿÿ
+>	css:S4654"#Unexpected unknown property "align"(«—´¿ùÿÿÿÿ
+L	css:S4654"1Unexpected unknown property "tap-highlight-color"(«—´¿ùÿÿÿÿ
+?	css:S4670"$Unexpected unknown type selector "x"(«—´¿ùÿÿÿÿ
+F	css:S4670"+Unexpected unknown type selector "sentinel"(«—´¿ùÿÿÿÿ
